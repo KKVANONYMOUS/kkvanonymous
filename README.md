@@ -36,4 +36,5 @@
 </p>
 
 <p align="center">
+  <img src="http://hits.dwyl.com/kkvanonymous/kkvanonymous.svg"><br>
 Made with 💖 and ☕</p>
