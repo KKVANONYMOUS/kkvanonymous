@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-  <img src="http://hits.dwyl.com/kkvanonymous/kkvanonymous.svg"><br>
+  <img src="https://komarev.com/ghpvc/?username=kkvanonymous"><br>
 Made with 💖 and ☕</p>
