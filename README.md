@@ -8,7 +8,7 @@
   </samp>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kkvanonymous&show_icons=true&border=true" alt="Kunal's Github stats">
+<img src="https://github-readme-stats.vercel.app/api?username=kkvanonymous&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Kunal's Github stats">
 </p><br>
 <h1 align="center">My Skills</h1>
 <p align="center">
