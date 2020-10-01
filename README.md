@@ -7,8 +7,9 @@
   I'm a Full Stack Web Developer and a Tech Enthusiast who loves everything which involves code💻. Currently I am pursuing B.Tech in Electrical Engineering at IIT (BHU),Varanasi.I love to explore all fields related to programming especially which involves Python🐍 and its modules.Apart from being a Tech Geek,I am an avid art🎨 lover and loves to try various artforms especially Doodling and Hatching.
   </samp>
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kkvanonymous&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Kunal's Github stats">
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkvanonymous&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Kunal's Github stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkvanonymous&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
 </p><br>
 <h1 align="center">My Skills</h1>
 <p align="center">
