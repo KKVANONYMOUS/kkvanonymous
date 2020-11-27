@@ -31,7 +31,8 @@
 
 <h3> :zap: Recent Activity </h3>
 
-<!--START_SECTION:activity--><br>
+<!--START_SECTION:activity-->
+
 <h1 align="center">Catch Me At</h1>
 <p align="center">
 <br>
