@@ -32,11 +32,11 @@
 <h3> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2505](https://github.com/erxes/erxes/pull/2505) in [erxes/erxes](https://github.com/erxes/erxes)
-2. ❗️ Opened issue [#2504](https://github.com/erxes/erxes/issues/2504) in [erxes/erxes](https://github.com/erxes/erxes)
-3. 💪 Opened PR [#4925](https://github.com/processing/p5.js/pull/4925) in [processing/p5.js](https://github.com/processing/p5.js)
-4. 🗣 Commented on [#1457](https://github.com/NativeScript/docs/issues/1457) in [NativeScript/docs](https://github.com/NativeScript/docs)
-5. 💪 Opened PR [#4923](https://github.com/processing/p5.js/pull/4923) in [processing/p5.js](https://github.com/processing/p5.js)
+1. 🗣 Commented on [#2505](https://github.com/erxes/erxes/issues/2505) in [erxes/erxes](https://github.com/erxes/erxes)
+2. 💪 Opened PR [#2505](https://github.com/erxes/erxes/pull/2505) in [erxes/erxes](https://github.com/erxes/erxes)
+3. ❗️ Opened issue [#2504](https://github.com/erxes/erxes/issues/2504) in [erxes/erxes](https://github.com/erxes/erxes)
+4. 💪 Opened PR [#4925](https://github.com/processing/p5.js/pull/4925) in [processing/p5.js](https://github.com/processing/p5.js)
+5. 🗣 Commented on [#1457](https://github.com/NativeScript/docs/issues/1457) in [NativeScript/docs](https://github.com/NativeScript/docs)
 <!--END_SECTION:activity-->
 
 <h1 align="center">Catch Me At</h1>
