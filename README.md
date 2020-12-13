@@ -35,11 +35,11 @@
 <h3> :zap: Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1520](https://github.com/processing/p5.js-web-editor/issues/1520) in [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
-2. 🗣 Commented on [#1548](https://github.com/processing/p5.js-web-editor/issues/1548) in [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
-3. 🗣 Commented on [#2505](https://github.com/erxes/erxes/issues/2505) in [erxes/erxes](https://github.com/erxes/erxes)
-4. 💪 Opened PR [#2505](https://github.com/erxes/erxes/pull/2505) in [erxes/erxes](https://github.com/erxes/erxes)
-5. ❗️ Opened issue [#2504](https://github.com/erxes/erxes/issues/2504) in [erxes/erxes](https://github.com/erxes/erxes)
+1. 💪 Opened PR [#10](https://github.com/aishwary023/orientation_bot/pull/10) in [aishwary023/orientation_bot](https://github.com/aishwary023/orientation_bot)
+2. 🗣 Commented on [#1520](https://github.com/processing/p5.js-web-editor/issues/1520) in [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
+3. 🗣 Commented on [#1548](https://github.com/processing/p5.js-web-editor/issues/1548) in [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
+4. 🗣 Commented on [#2505](https://github.com/erxes/erxes/issues/2505) in [erxes/erxes](https://github.com/erxes/erxes)
+5. 💪 Opened PR [#2505](https://github.com/erxes/erxes/pull/2505) in [erxes/erxes](https://github.com/erxes/erxes)
 <!--END_SECTION:activity-->
 
 <h1 align="center">Catch Me At</h1>
