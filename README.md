@@ -31,17 +31,6 @@
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </p><br>
-
-<h3> :zap: Recent Activity </h3>
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/aishwary023/orientation_bot/pull/10) in [aishwary023/orientation_bot](https://github.com/aishwary023/orientation_bot)
-2. 🗣 Commented on [#1520](https://github.com/processing/p5.js-web-editor/issues/1520) in [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
-3. 🗣 Commented on [#1548](https://github.com/processing/p5.js-web-editor/issues/1548) in [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)
-4. 🗣 Commented on [#2505](https://github.com/erxes/erxes/issues/2505) in [erxes/erxes](https://github.com/erxes/erxes)
-5. 💪 Opened PR [#2505](https://github.com/erxes/erxes/pull/2505) in [erxes/erxes](https://github.com/erxes/erxes)
-<!--END_SECTION:activity-->
-
 <h1 align="center">Catch Me At</h1>
 <p align="center">
 <br>
