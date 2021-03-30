@@ -12,7 +12,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkvanonymous&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkvanonymous&theme=tokyonight" alt="Kunal's Streak">
 </p><br>
-<h1 align="center">My Skills</h1>
+<h1 align="center">Languages and Tools</h1>
 <p align="center">
 <br>
  <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
