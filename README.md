@@ -32,9 +32,11 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img  height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></code>
- <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/></code>
-  <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
+<code><img  height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" /></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
 </p><br>
 <h1 align="center">Catch Me At</h1>
 <p align="center">
