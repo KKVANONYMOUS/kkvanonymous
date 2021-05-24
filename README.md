@@ -15,28 +15,32 @@
 <h1 align="center">Languages and Tools</h1>
 <p align="center">
 <br>
- <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code> 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img  height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" /></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
+ <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="jQuery"></code> 
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ReactJS"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></code>
+<code><img  height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Dart"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg" alt="ESLint"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab"></code>
 </p><br>
 <h1 align="center">Catch Me At</h1>
 <p align="center">
