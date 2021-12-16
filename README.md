@@ -40,6 +40,12 @@ I'm Kunal Kumar Verma, an Electrical undergraduate at the Indian Institute of Te
 <code><img height="50" src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg" alt="ESLint"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum"></code>
+<code><img height="50" src="https://trufflesuite.github.io/ganache/assets/img/ganache-logo-dark.svg" alt="Ganache" ></code>
+<code><img height="50" src="https://github.com/ChainSafe/web3.js/blob/1.x/assets/logo/web3js.jpg" alt="Web3.js"></code>
+<code><img height="50" src="https://trufflesuite.com/img/truffle-logo-dark.svg" alt="Truffle"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab"></code>
 </p><br>
 <h1 align="center">Catch Me At</h1>
