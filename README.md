@@ -1,13 +1,13 @@
 <p align='center'>
   <img  src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Developer.gif" alt="Developer gif">
 </p>
-<h2 align="center">Hola Amigos <img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif">,I'm <a href="http://kkvanonymous.github.io/">Kunal</a></h2>
+<h1 align="center">Hola Amigos <img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif">,I'm <a href="http://kkvanonymous.github.io/">Kunal</a></h1>
 <p align="center">
   <samp>
 I'm Kunal Kumar Verma, an Electrical undergraduate at the Indian Institute of Technology (BHU), Varanasi, pursuing a Bachelor of Technology in my Third Year. I'm a Full Stack Web Developer and a Tech Enthusiast who loves everything which involves code💻. I have a keen interest in the field of Open Source, Application Development, and Cryptography.Apart from being a Tech Geek,I am an avid art🎨 lover and loves to try various artforms especially Doodling and Hatching.
   </samp>
 </p>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h1 align="center">⚡ Stats ⚡</h1>
 <br>
 <p align="center">
   <div align="center">
