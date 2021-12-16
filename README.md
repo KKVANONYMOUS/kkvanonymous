@@ -7,12 +7,27 @@
 I'm Kunal Kumar Verma, an Electrical undergraduate at the Indian Institute of Technology (BHU), Varanasi, pursuing a Bachelor of Technology in my Third Year. I'm a Full Stack Web Developer and a Tech Enthusiast who loves everything which involves code💻. I have a keen interest in the field of Open Source, Application Development, and Cryptography.Apart from being a Tech Geek,I am an avid art🎨 lover and loves to try various artforms especially Doodling and Hatching.
   </samp>
 </p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkvanonymous&show_icons=true&border=true&icon_color=79ff97&text_color=efefef&bg_color=24292e&title_color=fff" alt="Kunal's Github stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkvanonymous&hide_title=false&layout=compact&bg_color=24292e&text_color=fff&title_color=fff">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkvanonymous&theme=tokyonight" alt="Kunal's Streak">
+  <div align="center">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kkvanonymous&theme=react&border=61dafb&hide_border=true" alt="kkvanonymous" />
+    </a>
+    <a href="https://github.com/kkvanonymous/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=kkvanonymous&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/kkvanonymous/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkvanonymous&title_color=61dafb&hide=c%2B%2B&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=kkvanonymous&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p><br>
-<h1 align="center">Languages and Tools</h1>
+<h1 align="center">🛠️ Languages and Tools 🛠️</h1>
 <p align="center">
 <br>
  <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C"></code>
@@ -48,7 +63,7 @@ I'm Kunal Kumar Verma, an Electrical undergraduate at the Indian Institute of Te
 <code><img height="50" src="https://trufflesuite.com/img/truffle-logo-dark.svg" alt="Truffle"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab"></code>
 </p><br>
-<h1 align="center">Catch Me At</h1>
+<h1 align="center">✨ Catch Me At ✨</h1>
 <p align="center">
 <br>
 <a href="https://www.facebook.com/kkvanonymous/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
