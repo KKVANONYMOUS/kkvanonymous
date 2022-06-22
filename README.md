@@ -1,7 +1,7 @@
 <p align='center'>
   <img  src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Developer.gif" alt="Developer gif">
 </p>
-<h1 align="center">Hola Amigos <img width="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif">,I'm <a href="http://kkvanonymous.github.io/">Kunal</a></h1>
+<h1 align="center">Hola Amigos <img width="30px" height="30px" src="https://github.com/KKVANONYMOUS/kkvanonymous/blob/master/gifs/Hi.gif">,I'm <a href="http://kkvanonymous.github.io/">Kunal</a></h1>
 <p align="center">
   <samp>
 I'm Kunal Kumar Verma, an Electrical undergraduate at the Indian Institute of Technology (BHU), Varanasi, pursuing a Bachelor of Technology in my Third Year. I'm a Full Stack Web Developer and a Tech Enthusiast who loves everything which involves code💻. I have a keen interest in the field of Open Source, Application Development, and Cryptography.Apart from being a Tech Geek,I am an avid art🎨 lover and loves to try various artforms especially Doodling and Hatching.
@@ -24,8 +24,8 @@ I'm Kunal Kumar Verma, an Electrical undergraduate at the Indian Institute of Te
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkvanonymous&title_color=61dafb&hide=c%2B%2B&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=kkvanonymous&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!--   <br> -->
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=kkvanonymous&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 </p><br>
 <h1 align="center">🛠️ Languages and Tools 🛠️</h1>
 <p align="center">
